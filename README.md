@@ -2,6 +2,7 @@
 
 MithilaVerse is a project to fine-tune a language model on Maithili text using the GPT-2 architecture. The goal is to create a language model that generates content in Maithili.
 
+### Dataset used: [Gold Standard Maithili Corpus](https://data.ldcil.org/a-gold-standard-maithili-raw-text-corpus)
 
 ## Setup
 
