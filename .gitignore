@@ -1,0 +1,34 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+.venv/
+env/
+venv/
+
+# Jupyter Notebooks checkpoints
+.ipynb_checkpoints/
+
+# Pytest
+.cache/
+
+# Hugging Face Tokenizer cache
+.cache/
+
+# Model checkpoints (if you decide to save models during training)
+checkpoint/
+results/
+
+# Logs
+*.log
+
+# Output directories
+output/
+
+# System files
+.DS_Store
+
+# IDE specific files
+.idea/
+.vscode/
