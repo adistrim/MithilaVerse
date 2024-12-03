@@ -32,3 +32,6 @@ output/
 # IDE specific files
 .idea/
 .vscode/
+
+# Models
+gpt2-finetuned/
